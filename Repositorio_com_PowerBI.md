@@ -18,5 +18,3 @@ https://www.youtube.com/watch?v=BtSaTnR-w0s&t=23s&pp=ygUYZ2l0IGNvbSBwb3dlciBiaSB
 https://www.youtube.com/watch?v=M7L7Iju6KCI&pp=ygUYZ2l0IGNvbSBwb3dlciBiaSBwYXJ0ZSAy
 https://www.youtube.com/watch?v=7pz_adZVubk&pp=ygUYZ2l0IGNvbSBwb3dlciBiaSBwYXJ0ZSAy
 
-Como o GitHub Copilot no VS Code acelera projetos Power BI
-https://www.youtube.com/watch?v=tLULoeUfy7s&pp=ygUYZ2l0IGNvbSBwb3dlciBiaSBwYXJ0ZSAy
