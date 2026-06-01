@@ -106,13 +106,43 @@ Projetar e gerenciar soluções de análise usando Power BI
         - 2.3.1 
 
 3.0 Modelar dados com o Power BI
-        - 3.1.1
+   - 3.1 Configurar um modelo semântico
+        - 3.1.1    
+   - 3.2 Escrever fórmulas DAX para modelos semânticos
+        - 3.2.1  
+   - 3.3 Criar cálculos DAX em modelos semânticos
+        - 3.3.1  
+   - 3.4 Modificar contexto de filtro DAX em modelos semânticos
+        - 3.4.1
+   - 3.5 Usar funções de inteligência de dados temporais DAX em modelos semânticos
+        - 3.5.1
+   - 3.6 Criar cálculos visuais no Power BI Desktop
+        - 3.6.1
+   - 3.7 Otimizar um modelo para desempenho no Power BI
+        - 3.7.1
+
 
 4.0 Criar relatórios eficazes no Power BI
+   - 4.1 Definir os requisitos de design de relatório
         - 4.1.1
+   - 4.2 Projetar relatórios do Power BI
+        - 4.2.1
+   - 4.3 Aprimorar os designs de relatórios do Power BI para a experiência do usuário
+        - 4.3.1
+   - 4.4 Realizar análise no Power BI
+        - 4.4.1
+
 
 5.0 Gerenciar e proteger o Power BI
+   - 5.1 Gerenciar espaços de trabalho no serviço do Power BI
         - 5.1.1
-
+   - 5.2 Gerenciar modelos semânticos no Power BI
+        - 5.2.1
+   - 5.3 Escolher um método de distribuição de conteúdo
+        - 5.3.1
+   - 5.4 Criar painéis no Power BI
+        - 5.4.1
+   - 5.5 Proteger o acesso a dados no Power BI
+        - 5.5.1                        
 
 <a href="https:" target="_blank">✏️</a></br>
